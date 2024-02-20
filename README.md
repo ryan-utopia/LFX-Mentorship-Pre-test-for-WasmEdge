@@ -1,4 +1,19 @@
 ## LFX Mentorship Pre-test for #3168 & #3170
+- [LFX Mentorship Pre-test for #3168 \& #3170](#lfx-mentorship-pre-test-for-3168--3170)
+  - [00 Enveriment](#00-enveriment)
+  - [01 Framework Execution](#01-framework-execution)
+    - [1.1 mlx](#11-mlx)
+      - [1.1.1 Installation](#111-installation)
+      - [1.1.2 mlx whisper example](#112-mlx-whisper-example)
+    - [1.2 whisper.cpp](#12-whispercpp)
+  - [02 Using wasmedge](#02-using-wasmedge)
+    - [2.1 build the `llama.cpp` plugin](#21-build-the-llamacpp-plugin)
+      - [Install hydai/0.13.5\_ggml\_lts](#install-hydai0135_ggml_lts)
+    - [2.2 run a specific model](#22-run-a-specific-model)
+      - [Download the model](#download-the-model)
+      - [API Test](#api-test)
+      - [Chat with the model via a web UI](#chat-with-the-model-via-a-web-ui)
+
 
 ### 00 Enveriment
 
